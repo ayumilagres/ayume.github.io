@@ -3,15 +3,23 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm [Your Name] 👋
+# 👋 Hi, I'm [Ayume]
 
-Welcome to my data portfolio. I'm a data analyst who loves turning messy data into insights and telling stories with charts and code.
+I'm a data professional who loves turning messy data into clear stories and visual insights.
 
-## 🔍 Projects
+### 🔍 Featured Projects
 
-Coming soon — stay tuned!
+- 📊 [Mining Cost Model in Excel](./_pages/projects.md)  
+- 💡 [Customer Churn with R](./_pages/projects.md)
 
-## 📫 Contact
+### 📚 About Me
 
-[LinkedIn](https://linkedin.com/in/yourprofile)  
-[Email](mailto:youremail@example.com)
+Curious by nature, structured by training. I work at the intersection of engineering, analytics, and business insight.
+
+➡️ [More about me](./_pages/about.md)
+
+### 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/ayume-milagres-02661a90)  
+[Email me](mailto:ayumilagres@gmail.com)
+
