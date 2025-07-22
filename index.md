@@ -1,3 +1,5 @@
+[Home](/) | [Projects](/projects/) | [About](/about/) | [Resume](/resume/) | [Contact](/contact/)
+
 ---
 layout: default
 title: Home
