@@ -1,3 +1,12 @@
+title: Ayume Milagres  
+email: ayumilagres@gmail.com
+description: >-
+  Ayume's portfolio of data projects and storytelling.
+baseurl: ""
+url: "https://yourusername.github.io"
 theme: jekyll-theme-minimal
-title: Ayume Milagres
-description: A portfolio of data projects, analysis, and visual storytelling.
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
